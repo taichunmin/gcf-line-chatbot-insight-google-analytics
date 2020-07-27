@@ -1,0 +1,27 @@
+{
+  "name": "gcf-line-chatbot-insight-google-analytics",
+  "version": "1.0.0",
+  "description": "A Google Cloud Function for retrieving insight data and send to Google Analytics.",
+  "main": "index.js",
+  "repository": "git@github.com:taichunmin/gcf-line-chatbot-insight-google-analytics.git",
+  "author": "taichunmin <taichunmin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "@line/bot-sdk": "^7.0.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "papaparse": "^5.2.0",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
