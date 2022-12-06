@@ -14,7 +14,7 @@
     "lodash": "^4.17.19",
     "moment": "^2.27.0",
     "papaparse": "^5.2.0",
-    "qs": "^6.9.4"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "eslint": "^7.5.0",
